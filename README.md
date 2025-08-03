@@ -26,5 +26,4 @@ It's beginners projecy i made to integrate Spring JDBC with a relational databas
 
 ---
 
-## 📁 Project Structure
 
